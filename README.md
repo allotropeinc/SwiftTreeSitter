@@ -4,6 +4,8 @@
 
 # SwiftTreeSitter
 
+### Modified by Allotrope to run on Linux (removal of Cocoa references).
+
 Swift wrappers for the [tree-sitter](https://tree-sitter.github.io/) incremental parsing system.
 
 SwiftTreeSitter is fairly low-level. If you are looking a higher-level system for syntax highlighting and other syntactic operations, you might want to have a look at [Neon](https://github.com/ChimeHQ/Neon).
